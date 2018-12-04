@@ -19,6 +19,7 @@ func main() {
 	fmt.Println("Everything is going well well")
 
 	fmt.Println("Server is running at ", port)
+	fmt.Println("Server is really running at ", port)
 
 	myHandler := handler.NewHandler()
 
