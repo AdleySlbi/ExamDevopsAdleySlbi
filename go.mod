@@ -1,1 +1,1 @@
-module wsf/devops
+module wsf/partieldevops/PartielDevOpsAdleySalabi
