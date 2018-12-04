@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"wsf/devops/handler"
+	"wsf/partieldevops/partieldevopsadleysalabi/handler"
 )
 
 func main() {
