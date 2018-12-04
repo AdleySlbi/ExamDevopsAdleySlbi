@@ -23,7 +23,7 @@ func main() {
 	myHandler := handler.NewHandler()
 
 	server := &http.Server{
-		Addr:    ":8080",
+		Addr:    ":" + port,
 		Handler: myHandler,
 	}
 
