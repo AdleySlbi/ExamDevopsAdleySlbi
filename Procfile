@@ -1,1 +1,1 @@
-web: partieldevopsadleysalabi
+web: PartielDevOpsAdleySalabi
